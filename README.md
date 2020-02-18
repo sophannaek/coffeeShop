@@ -1,2 +1,2 @@
 # coffeeShop
-Java CRUD Application using MySQL DBMS
+Java CRUD Application using JDBC and MySQL DBMS.
